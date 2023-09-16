@@ -54,14 +54,14 @@ Welcome to my submission for the Data Science internship screening test at Dendr
 | Random Forest Regressor | 0.0338            | 0.1839                   | 0.1467              | 0.9468    |
 | GBT Regressor          | 0.0445            | 0.2109                   | 0.1651              | 0.9300    |
 | Linear Regression      | 0.0301            | 0.1735                   | 0.1350              | 0.9526    |
-| Ridge Regression       | 0.0287            | 0.1695                   | 0.1330              | 0.9548    |
+| Ridge Regression       | 0.0287            | 0.1695                   | 0.1330    🏆          | 0.9548    |
 | Lasso Regression       | 0.3389            | 0.5822                   | 0.5113              | 0.4668    |
 | Elastic Net Regression | 0.1473            | 0.3838                   | 0.3337              | 0.7683    |
 | XGBoost                | 0.0392            | 0.1980                   | 0.1517              | 0.9383    |
 | Decision Tree Regressor | 0.0474          | 0.2178                   | 0.1655              | 0.9254    |
 | SVM                   | 0.033              | 0.1818                   | 0.1362              | 0.9480    |
-| SGD                   | 0.0312            | 0.1766                   | 0.1474              | 0.9590    |
-| Extra Random Trees     | 0.0284            | 0.1686                   | 0.1392              | 0.9533    |
+| SGD                   | 0.0312            | 0.1766                   | 0.1474              | 0.9590  🏆  |
+| Extra Random Trees     | 0.0284 🏆           | 0.1686   🏆                | 0.1392              | 0.9533    |
 | Neural Network         | 0.0578            | 0.2403                   | 0.1599              | 0.9091    |
 
 
