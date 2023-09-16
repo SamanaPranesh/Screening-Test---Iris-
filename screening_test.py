@@ -193,12 +193,12 @@ param_grids = {
         'max_depth': [3, 4, 5],
         'min_samples_split': [2, 3, 4],
         'min_samples_leaf': [1, 2, 3],
-        'min_iter': [30, 50, 100],          # Added min_iter
-        'max_iter': [50, 100, 200],         # Added max_iter
-        'min_subsample': [1, 2],         # Added min_subsample
-        'max_subsample': [2, 3, 4],         # Added max_subsample
-        'min_stepsize': [0.01, 0.1, 0.2],  # Added min_stepsize
-        'max_stepsize': [0.1, 0.2, 0.3]    # Added max_stepsize
+        'min_iter': [30, 50, 100],          
+        'max_iter': [50, 100, 200],         
+        'min_subsample': [1, 2],         
+        'max_subsample': [2, 3, 4],         
+        'min_stepsize': [0.01, 0.1, 0.2],  
+        'max_stepsize': [0.1, 0.2, 0.3]    
     },
     "LinearRegression": {
         'fit_intercept':[True,False],
@@ -281,7 +281,7 @@ param_grids = {
 }
 
 # Define parameter grids for classification models
-# Define parameter grids for classification models
+
 param_grids_classification = {
     "RandomForestClassifier": {
         "n_estimators": [10, 20, 30],
