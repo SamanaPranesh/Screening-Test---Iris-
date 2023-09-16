@@ -73,7 +73,7 @@ Replace `json_path` and `data_path` with the actual file paths on your system.
 
 ## Note on Hyperparameter Tuning
 
-For hyperparameter tuning, some parameters for the models resulted in high errors. As a result, specific parameter values have been manually entered in the code to obtain lower errors and optimize model performance. Be aware that these parameter values may differ from default settings.
+For hyperparameter tuning, some parameters for the models given in the JSON file resulted in high errors. As a result, specific parameter values have been manually entered in the code to obtain lower errors and optimize model performance. Be aware that these parameter values may differ from default settings.
 
 
 
