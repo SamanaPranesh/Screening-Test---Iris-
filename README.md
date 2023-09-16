@@ -38,6 +38,7 @@ Welcome to my submission for the Data Science internship screening test at Dendr
 3. **Feature Importance:**
 
    Using the tree-based method, the importance factor of the features is calculated and plotted which is shown in the image below.
+   ![Alt Text](https://github.com/SamanaPranesh/Screening-Test---Iris-/blob/main/feature_importance_plot.png?raw=true)
    
 
 
