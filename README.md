@@ -65,7 +65,7 @@ Welcome to my submission for the Data Science internship screening test at Dendr
 | Neural Network         | 0.0578            | 0.2403                   | 0.1599              | 0.9091    |
 
 
-   *Note: If the prediction type is classification, relevant classification metrics will be displayed.*
+   *Note: If the prediction type is classification, relevant classification metrics will be displayed such as accuracy, precision, F1-score and Confusion matrix.*
 
 
 ## Note on Hyperparameter Tuning
