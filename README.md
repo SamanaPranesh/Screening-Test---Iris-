@@ -11,7 +11,7 @@ Welcome to my submission for the Data Science internship screening test at Dendr
 
 - **`iris.csv`**: This file contains the dataset under study for the screening test.
 
-- **`testing.json`**: JSON file containing test data or related information.
+- **`testing.json`**: JSON file containing related information about data cleaning, feature reduction and modelling.
 
 - **`screening_test.py`**: Python code for the screening test. This code is organized to be executed sequentially based on the assignment questions. The data pertaining to the questions is directly read from the JSON file to make the code as general as possible.
 
