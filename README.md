@@ -20,7 +20,7 @@ Welcome to my submission for the Data Science internship screening test at Dendr
 - **`Screening Test - DS.docx`**: The assignment questions or related documentation for the screening test.
 
 ## Usage
-Ensure you have the required dataset `iris.csv` and  JSON file `testing.json` available in the same directory as the Python code file.
+Ensure you have the required dataset `iris.csv` and  JSON file `testing.json` available.
 Replace `json_path` and `data_path` with the actual file paths on your system. 
 
 ## Table of Contents
