@@ -20,8 +20,11 @@ from sklearn.svm import SVC, SVR
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+json_path = 'testing.json'
+data_path = 'iris.csv'
+
 # Read the json file and load it into a dictionary
-with open('testing.json') as json_file:
+with open(json_path) as json_file:
     data = json.load(json_file)
 
 # Access the "target" and "type of regression" field
@@ -31,7 +34,7 @@ print("Target:",target)
 print("Type of Prediction:",target_type)
 
 # Load the CSv data into a dataframe
-df = pd.read_csv('iris.csv')
+df = pd.read_csv(data_path)
 print(df.head())
 
 ################################################################################################################################################ 
