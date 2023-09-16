@@ -46,7 +46,7 @@ Welcome to my submission for the Data Science internship screening test at Dendr
 
    The data is trained on different regression and classification models. The standard metrics indicating the performance of the model will be displayed on the screen.
 
-   *Note: If the prediction type is regression, the following metrics will be displayed: Mean Absolute Error, Mean Squared Error, R-squared.*
+   *Note: If the prediction type is regression, the following metrics will be displayed: Mean Absolute Error, Mean Squared Error, R-squared and Root mean squared.*
    ## Regression Metrics (if prediction type is regression):
 
 | Model                 | Mean Squared Error | Root Mean Squared Error | Mean Absolute Error | R-squared |
