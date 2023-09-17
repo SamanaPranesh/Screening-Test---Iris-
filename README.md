@@ -47,7 +47,7 @@ Replace `json_path` and `data_path` with the actual file paths on your system.
 
 5. **Model Training and Evaluation:**
 
-   The data is trained on different regression and classification models. The standard metrics indicating the performance of the model which is `is_selected=True` will be displayed on the screen. All the regression models given in the JSON file has been evaluated and their metrics is tabulated below. 
+   The data is trained on different regression and classification models. The standard metrics indicating the performance of the model which is `is_selected=True` in JSON file, will be displayed on the screen. However, all the regression models given in the JSON file has been evaluated and their metrics is tabulated below. 
 
    *Note: If the prediction type is regression, the following metrics will be displayed: Mean Absolute Error, Mean Squared Error, R-squared and Root mean squared.*
    ## Regression Metrics (if prediction type is regression):
